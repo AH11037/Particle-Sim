@@ -1,3 +1,0 @@
-/home/me/Coding/C++/Particle Sim/out/build/Clang 22.1.8 x86_64-pc-linux-gnu/CMakeFiles/ParticleSim.dir
-/home/me/Coding/C++/Particle Sim/out/build/Clang 22.1.8 x86_64-pc-linux-gnu/CMakeFiles/edit_cache.dir
-/home/me/Coding/C++/Particle Sim/out/build/Clang 22.1.8 x86_64-pc-linux-gnu/CMakeFiles/rebuild_cache.dir

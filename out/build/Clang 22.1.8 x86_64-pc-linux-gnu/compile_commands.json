@@ -1,8 +1,0 @@
-[
-{
-  "directory": "/home/me/Coding/C++/Particle Sim/out/build/Clang 22.1.8 x86_64-pc-linux-gnu",
-  "command": "/usr/bin/clang++   -g -std=c++20 -o CMakeFiles/ParticleSim.dir/main.cpp.o -c \"/home/me/Coding/C++/Particle Sim/main.cpp\"",
-  "file": "/home/me/Coding/C++/Particle Sim/main.cpp",
-  "output": "CMakeFiles/ParticleSim.dir/main.cpp.o"
-}
-]
